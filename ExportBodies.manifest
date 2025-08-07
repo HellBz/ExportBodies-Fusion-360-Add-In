@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion",
+	"type":	"addin",
+	"id":	"d46751b2-e288-4803-9d44-4458aa4e4480",
+	"author":	"Stefan Kögler",
+	"description":	{
+		"": "A Fusion Add-in to easily export all bodies at once."
+	},
+	"version":	"1.0.0",
+	"runOnStartup":	false,
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"iconFilename": "ExportBodies.png"
+}
