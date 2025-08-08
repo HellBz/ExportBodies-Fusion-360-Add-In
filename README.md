@@ -17,13 +17,13 @@
 
 ## 📸 Screenshots
 
-### Export-Dialog
+### Export Dialog
 ![Export Dialog](screenshots/export-dialog.png)
 
-### Exportiertes Ergebnis im Dateisystem
+### Exported Files in Folder
 ![Exported Files](screenshots/export-folder.png)
 
-### Beispiel eines STL-Exports
+### Example STL Export
 ![STL Export Example](screenshots/stl-example.png)
 
 ---
@@ -69,5 +69,6 @@
 
 Exports are saved to an `EXPORT` folder located **two levels above** the add-in directory.  
 Each Fusion document gets its own subfolder:
+
 
 
