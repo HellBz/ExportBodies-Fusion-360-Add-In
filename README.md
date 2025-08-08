@@ -70,5 +70,8 @@
 Exports are saved to an `EXPORT` folder located **two levels above** the add-in directory.  
 Each Fusion document gets its own subfolder:
 
+---
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).
